@@ -15,4 +15,4 @@ Solutions to the III Semester OOP Lab Programs, 2019 Scheme <br /><br />
 
 **7.** Write a function called swap() that interchanges two int values 	belonging to an object, passed as parameter to it by the calling program. Write a C++ program to demonstrate call by value, call by reference and call by address. <br /><br />
 
-**8.** Write a function called power() that takes a 	double value for n and an int value 	for p, and returns the result as a double value. Create a series of overloaded functions with the same name that, in addition to double, also work with types char, int, long, and float. Write a main() program that exercises these overloaded functions with all argument types. <br /><br />
+**8.** Write a function called power() that takes a double value for n and an int value for p, and returns the result as a double value. Create a series of overloaded functions with the same name that, in addition to double, also work with types char, int, long, and float. Write a main() program that exercises these overloaded functions with all argument types. <br /><br />
